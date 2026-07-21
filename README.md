@@ -1,4 +1,5 @@
 ## Аналитик данных
+### Навыки
 #### Языки программирования: Python, SQL
 #### Инструменты Python: Jupyter Notebook, Google Colab.
 #### Инструменты SQL: DBeaver
