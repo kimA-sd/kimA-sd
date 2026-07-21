@@ -1,5 +1,14 @@
 ## Аналитик данных
-### Стек: Python, Jupyter Notebook, Google Colab, SQL, PostgreSQL, DBeaver, Yandex DataLens, A/B тестирование
+#### Языки программирования: Python, SQL
+#### Инструменты Python: Jupyter Notebook, Google Colab.
+#### Инструменты SQL: DBeaver
+#### Визуализация: Yandex DataLens
+
+## Контакты и ссылки
+#### email: lantanasd@gmail.com
+#### telegram: @lustcoma
+#### портфолио: 
+
 
 <!--
 **kimA-sd/kimA-sd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
