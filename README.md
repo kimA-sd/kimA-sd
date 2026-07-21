@@ -1,4 +1,4 @@
-## Hi there 👋
+## Аналитик данных
 
 <!--
 **kimA-sd/kimA-sd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
