@@ -1,4 +1,5 @@
 ## Аналитик данных
+### Стек: Python, Jupyter Notebook, Google Colab, SQL, PostgreSQL, DBeaver, Yandex DataLens, A/B тестирование
 
 <!--
 **kimA-sd/kimA-sd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
