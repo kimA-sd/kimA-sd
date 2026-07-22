@@ -8,7 +8,6 @@
 ## Контакты и ссылки
 #### email: lantanasd@gmail.com
 #### telegram: @lustcoma
-#### портфолио: 
 
 
 <!--
